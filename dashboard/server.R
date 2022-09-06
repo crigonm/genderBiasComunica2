@@ -403,7 +403,7 @@ grafpropXponX <- ggplot(data.frame(
   labs(x='Género del ponente', y='Proporción de la participación', fill='Género de los\nparticipantes') +
   geom_hline(yintercept = 0.50, col = "red")
 
-# Gráfica de 
+# Gráfica de las segundas preguntas según género, cuando la pregunta de apertura es formulada por un hombre o una mujer (por años)
 listaPrimPregs = vector("numeric",length(pruebasDataset$pregunta)-1)
 listaSegPregs = vector("numeric",length(pruebasDataset$pregunta)-1)
 years = vector("numeric",length(pruebasDataset$pregunta)-1)
