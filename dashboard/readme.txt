@@ -1,0 +1,1 @@
+Para ejecutar la aplicación, abrir el proyecto "Dashboard_TFG" y, tras ello, ejecutar el Script "ShinyApp.R". 
