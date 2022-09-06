@@ -9,7 +9,7 @@ Cómo lanzar el proyecto:
 1. Descargar todo el contenido de "dashboard" en una misma carpeta.
 2. Abrir el proyecto de R "Dashboard_TFG".
 3. En el proyecto, abrir el Script "packages.R" y ejecutarlo (isntalación de paquetes necesarios).
-4. En el proyecto, Abrir el Script "shinyApp.R" y ejecutarlo.
+4. En el proyecto, abrir el Script "shinyApp.R" y ejecutarlo.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
