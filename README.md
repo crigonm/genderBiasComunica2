@@ -6,7 +6,7 @@ Herramienta creada por Cristina González con el objetivo de identificar el sesg
 Este proyecto cuenta con licencia conforme a los términos de la licencia GNU GPL V3.0
 
 Cómo lanzar el proyecto:
-1. Descargar todo el contenido del repositorio en una misma carpeta.
+1. Descargar todo el contenido de "Dashboard_TFG" en una misma carpeta.
 2. Abrir el Script "packages.R" y ejecutarlo (isntalación de paquetes necesarios).
 3. Abrir el Script "shinyApp.R" y ejecutarlo.
 
@@ -18,6 +18,6 @@ Tool created by Cristina González with the aim of identifying gender bias in th
 This project is licensed under the terms of the GNU GPL V3.0 license.
 
 How to launch the project:
-1. Download all the content of the repository in the same folder.
+1. Download all the content of "Dashboard_TFG" in the same folder.
 2. Open the script "packages.R" and run it (installation of the necessary packages).
 3. Open the script "shinyApp.R" and run it.
