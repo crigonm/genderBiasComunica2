@@ -10,6 +10,8 @@ Cómo lanzar el proyecto:
 2. Abrir el Script "packages.R" y ejecutarlo (isntalación de paquetes necesarios).
 3. Abrir el Script "shinyApp.R" y ejecutarlo.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ENGLISH:
 Tool created by Cristina González with the aim of identifying gender bias in the Comunica2 conferences of the UPV (Valencia).
 
